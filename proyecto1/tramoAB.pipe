@@ -1,0 +1,16 @@
+<pipe>
+name : Tramo AB
+v : 10 
+l : 5 
+p : 10 
+dp : 2 
+t : 25 
+q : 1000 
+curva 90 : 1 
+codo 90 : 0 
+reduccion : 3 
+t divergente : 0 
+t directa : 0 
+valvula bola : 0 
+llave paso : 0 
+<\pipe>

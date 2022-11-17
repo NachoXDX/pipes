@@ -1,0 +1,16 @@
+<pipe>
+name : Tramo BD
+v : 9
+l : 13.42 
+p : 10 
+dp : 2 
+t : 20 
+q : 240 
+curva 90 : 0 
+codo 90 : 2 
+reduccion : 2 
+t divergente : 0 
+t directa : 2 
+valvula bola : 0 
+llave paso : 2 
+<\pipe>

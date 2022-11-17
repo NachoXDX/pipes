@@ -1,0 +1,16 @@
+<pipe>
+name : Tramo BC
+v : 9
+l : 4.3 
+p : 10 
+dp : 2 
+t : 20 
+q : 700 
+curva 90 : 0 
+codo 90 : 2 
+reduccion : 2 
+t divergente : 1 
+t directa : 1 
+valvula bola : 0 
+llave paso : 2 
+<\pipe>
